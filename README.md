@@ -5,7 +5,7 @@ This create-react-app boilerplate contains the basic setup for React version 16.
 ## Usage
 
 ```bash
-git checkout [https://github.com/arunharshan/react-redux-boilerplate.git](https://github.com/arunharshan/react-redux-boilerplate.git)
+git checkout https://github.com/arunharshan/react-redux-boilerplate.git
 ```
 
 CD to the folder
