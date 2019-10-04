@@ -1,6 +1,8 @@
 # React Redux Hooks Boilerplate
 
-This create-react-app boilerplate contains the basic setup for React version 16.10, Redux, Thunk, react-router-dom with private router, SASS, redux-devtools, styled-components, uuid, jquery, axios, local storage.
+Ready to write code with out wasting much time for initial setup.
+
+This create-react-app boilerplate contains the basic setup for React version 16.10, Redux, Thunk, react-router-dom with private router, SASS, react-bootstrap 4, redux-devtools, styled-components, uuid, jquery, axios, local storage.
 
 ## Usage
 
@@ -24,7 +26,3 @@ Runs the app in the development mode.
 
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 (the dashboard page is protected)
-
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)

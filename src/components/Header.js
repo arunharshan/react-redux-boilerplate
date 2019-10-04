@@ -3,8 +3,8 @@ import { Link } from 'react-router-dom';
 
 export default function Header() {
   return (
-    <div>
-      <ul>
+    <header>
+      <ul className='header'>
         <li>
           <Link to='/'>Home</Link>
         </li>
@@ -18,6 +18,6 @@ export default function Header() {
           <Link to='/someWhere'>Invalid page</Link>
         </li>
       </ul>
-    </div>
+    </header>
   );
 }

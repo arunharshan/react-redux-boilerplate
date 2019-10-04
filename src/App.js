@@ -2,7 +2,7 @@ import React from 'react';
 import { Provider } from 'react-redux';
 import store from './store';
 
-import './App.css';
+import './App.scss';
 import { Router, Route, Switch } from 'react-router-dom';
 import history from './RouterExtend';
 import PrivateRoute from './RouterExtend/PrivateRouter';
